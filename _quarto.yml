@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Sarah145.github.io"
+  title: "Sarah Ennis"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - downloadCV.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

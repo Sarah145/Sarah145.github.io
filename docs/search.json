@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sarah145.github.io",
+    "title": "Sarah Ennis, PhD",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! I’m Sarah, a bioinformatician with 5 years of experience.\nI’m currently based in Kingston, Ontario but am originally from Dublin, Ireland."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Sarah Ennis, PhD",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! I’m Sarah, a bioinformatician with 5 years of experience.\nI’m currently based in Kingston, Ontario but am originally from Dublin, Ireland."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sarah Ennis, PhD",
+    "section": "Education",
+    "text": "Education\nUniversity of Galway | Galway, Ireland PhD in Genomics Data Science | Sept 2019 - Dec 2023\nUniversity of Galway | Galway, Ireland MSc in Biomedical Genomics | Sept 2018 - July 2019\nTrinity College Dublin | Dublin, Ireland BSc in Human Health & Disease | Sept 2013 - July 2017"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sarah Ennis, PhD",
+    "section": "Experience",
+    "text": "Experience\nMax Delbrück Centre | Visiting Researcher | Oct 2022 - Dec 2022\nWellcome Sanger Institure | Visiting Researcher | May 2019 - July 2019\nairmid healthgroup ltd | R&D Scientist | May 2016 - Sept 2018"
+  },
+  {
+    "objectID": "downloadCV.html",
+    "href": "downloadCV.html",
+    "title": "Download my CV",
+    "section": "",
+    "text": "You can download a pdf copy of my CV here."
   }
 ]

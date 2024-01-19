@@ -1,1 +1,27 @@
 /* css styles */
+.navbar {
+  background-color: #333;
+  background-image: url('hilbert.png');
+  color: #ffffff;
+}
+
+#quarto-header>nav {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+#quarto-header {
+  color: white;
+}
+
+.menu-text {
+    color:#ffffff;
+    font-size: 16pt;
+}
+
+.navbar-title {
+  color:#ffffff;
+  font-size: 18pt;
+}

@@ -1,11 +1,44 @@
 ---
-title: "Sarah145.github.io"
+title: "Sarah Ennis, PhD"
+image: headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/sarahennis-1994/
+    - icon: twitter
+      href: https://twitter.com/sarahe145
+    - icon: github
+      href: https://github.com/Sarah145
+    - icon: envelope
+      href: mailto:ennissarah94@gmail.com
 ---
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi there! I'm Sarah, a bioinformatician with 5 years of experience.
 
-```{r}
-1 + 1
-```
+I'm currently based in **Kingston, Ontario** but am originally from **Dublin, Ireland**.
+
+## Education
+
+University of Galway \| Galway, Ireland
+PhD in Genomics Data Science \| Sept 2019 - Dec 2023
+
+University of Galway \| Galway, Ireland
+MSc in Biomedical Genomics \| Sept 2018 - July 2019
+
+Trinity College Dublin \| Dublin, Ireland
+BSc in Human Health & Disease \| Sept 2013 - July 2017
+
+## Experience
+
+Max Delbrück Centre \| Visiting Researcher \| Oct 2022 - Dec 2022
+
+Wellcome Sanger Institure \| Visiting Researcher \| May 2019 - July 2019
+
+airmid healthgroup ltd \| R&D Scientist \| May 2016 - Sept 2018
+

@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - cv.pdf
 
 website:
   title: "Sarah Ennis"
@@ -15,6 +17,10 @@ format:
     theme: cyborg
     css: styles.css
     toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
     page-layout: full
 
 editor: visual

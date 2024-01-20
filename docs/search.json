@@ -4,34 +4,55 @@
     "href": "index.html",
     "title": "Sarah Ennis, PhD",
     "section": "",
-    "text": "Hi there! I’m Sarah, a bioinformatician with 5 years of experience.\nI’m currently based in Kingston, Ontario but am originally from Dublin, Ireland."
+    "text": "Hi there! \n\nI’m Sarah, a bioinformatician and data scientist with 5 years of experience.\nI’m originally from Dublin, Ireland and currently based in Kingston, Ontario.\nI have expertise in conducting a wide range of bioinformatics analyses and specialise in the analysis of single-cell transcriptomic data.\nI also have a keen interest in data visualisation and enjoy developing R Shiny apps and R packages.\nI’m currently open to job opportunities that are either hybrid in the Toronto area or remote, anywhere in Canada.\nIf you’re interested in hiring me, you can find my CV here and reach out to me via email at ennissarah94@gmail.com."
   },
   {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Sarah Ennis, PhD",
     "section": "",
-    "text": "Hi there! I’m Sarah, a bioinformatician with 5 years of experience.\nI’m currently based in Kingston, Ontario but am originally from Dublin, Ireland."
+    "text": "Hi there! \n\nI’m Sarah, a bioinformatician and data scientist with 5 years of experience.\nI’m originally from Dublin, Ireland and currently based in Kingston, Ontario.\nI have expertise in conducting a wide range of bioinformatics analyses and specialise in the analysis of single-cell transcriptomic data.\nI also have a keen interest in data visualisation and enjoy developing R Shiny apps and R packages.\nI’m currently open to job opportunities that are either hybrid in the Toronto area or remote, anywhere in Canada.\nIf you’re interested in hiring me, you can find my CV here and reach out to me via email at ennissarah94@gmail.com."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Sarah Ennis, PhD",
     "section": "Education",
-    "text": "Education\nUniversity of Galway | Galway, Ireland PhD in Genomics Data Science | Sept 2019 - Dec 2023\nUniversity of Galway | Galway, Ireland MSc in Biomedical Genomics | Sept 2018 - July 2019\nTrinity College Dublin | Dublin, Ireland BSc in Human Health & Disease | Sept 2013 - July 2017"
+    "text": "Education\n\nPhD in Genomics Data Science | University of Galway | Galway, Ireland | Sept 2019 - Dec 2023\n\nRecently completed my PhD which focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia.\n\nMSc in Biomedical Genomics | University of Galway | Galway, Ireland | Sept 2018 - July 2019\n\nDuring my MSc I received robust training in all aspects of genomics data analysis and conducted a research project on characterising transcriptional heterogeneity between tissue-resident macrophage subsets using single-cell gene expression data.\n\nBSc in Human Health & Disease | Trinity College Dublin | Dublin, Ireland | Sept 2013 - July 2017"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Sarah Ennis, PhD",
     "section": "Experience",
-    "text": "Experience\nMax Delbrück Centre | Visiting Researcher | Oct 2022 - Dec 2022\nWellcome Sanger Institure | Visiting Researcher | May 2019 - July 2019\nairmid healthgroup ltd | R&D Scientist | May 2016 - Sept 2018"
+    "text": "Experience\n\nVisiting Researcher | Max Delbrück Centre | Berlin, Germany | Oct 2022 - Dec 2022\n\n\nVisiting Researcher | Wellcome Sanger Institute | Cambridge, UK | May 2019 - July 2019\n\n\nR&D Scientist | airmid healthgroup ltd | Dublin, Ireland | May 2016 - Sept 2018"
+  },
+  {
+    "objectID": "index.html#publications-and-presentations",
+    "href": "index.html#publications-and-presentations",
+    "title": "Sarah Ennis, PhD",
+    "section": "Publications and Presentations",
+    "text": "Publications and Presentations"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Sarah Ennis, PhD",
+    "section": "Skills",
+    "text": "Skills\nR R shiny Python bash cloud computing Nextflow docker"
+  },
+  {
+    "objectID": "index.html#just-for-fun",
+    "href": "index.html#just-for-fun",
+    "title": "Sarah Ennis, PhD",
+    "section": "Just for fun",
+    "text": "Just for fun"
   },
   {
     "objectID": "downloadCV.html",
     "href": "downloadCV.html",
     "title": "Download my CV",
     "section": "",
-    "text": "You can download a pdf copy of my CV here."
+    "text": "You can download a pdf copy of my CV here"
   }
 ]

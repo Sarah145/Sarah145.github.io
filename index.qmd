@@ -29,7 +29,7 @@ I'm Sarah, a **bioinformatician and data scientist** with 5 years of experience.
 
 I'm originally from **Dublin, Ireland** and currently based in **Kingston, Ontario**.
 
-I have expertise in conducting a wide range of bioinformatics analyses and specialise in the analysis of **single-cell** transcriptomic data.
+I have expertise in conducting a wide range of bioinformatics analyses and specialise in the analysis of **single-cell** gene expression data.
 
 I also have a keen interest in **data visualisation** and enjoy developing **R Shiny** apps and R packages.
 

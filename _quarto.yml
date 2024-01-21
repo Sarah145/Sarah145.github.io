@@ -9,8 +9,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - downloadCV.qmd
+        text: About Me
+      - education.qmd
+      - publications.qmd
+      - skills.qmd
+      - justforfun.qmd
 
 format:
   html:

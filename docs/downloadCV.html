@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Sarah Ennis - Download my CV</title>
+<title>Sarah Ennis - Just for fun</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -87,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./downloadCV.html" rel="" target="" aria-current="page">
- <span class="menu-text">Download my CV</span></a>
+ <span class="menu-text">Just for fun</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -108,7 +111,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Download my CV</h1>
+<h1 class="title">Just for fun</h1>
 </div>
 
 
@@ -123,7 +126,18 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>You can download a pdf copy of my CV <a href="cv.pdf">here</a></p>
+<p>As if I don’t spend enough hours on these things at work, I also enjoy genomics and data visualisation in my spare time. Here’s some examples of data visualisations I’ve created for the <a href="https://github.com/Sarah145/30DayChartChallenge">#30DayChartChallenge</a> on Twitter.</p>
+<div class="chart-gallery">
+<p><a href="chart_chal1.png" class="lightbox" data-gallery="my-gallery"><img src="chart_chal1.png" class="img-fluid" style="width:21.0%"></a> <a href="chart_chal2.png" class="lightbox" data-gallery="my-gallery"><img src="chart_chal2.png" class="img-fluid" style="width:21.0%"></a> <a href="chart_chal3.gif" class="lightbox" data-gallery="my-gallery"><img src="chart_chal3.gif" class="img-fluid" style="width:21.0%"></a> <a href="chart_chal4.png" class="lightbox" data-gallery="my-gallery"><img src="chart_chal4.png" class="img-fluid" style="width:21.0%"></a></p>
+</div>
+<p>I had my own genome sequenced a few years ago and enjoy making different abstract visualisations of the data. The plots below are generated using my genome sequence data.</p>
+<div class="chart-gallery">
+<p><a href="mygnome2.png" class="lightbox" data-gallery="my-gallery2"><img src="mygnome2.png" class="img-fluid" style="width:21.0%"></a> <a href="mygnome3.png" class="lightbox" data-gallery="my-gallery2"><img src="mygnome3.png" class="img-fluid" style="width:21.0%"></a> <a href="mygnome4.png" class="lightbox" data-gallery="my-gallery2"><img src="mygnome4.png" class="img-fluid" style="width:21.0%"></a> <a href="mygnome5.png" class="lightbox" data-gallery="my-gallery2"><img src="mygnome5.png" class="img-fluid" style="width:21.0%"></a></p>
+</div>
+<p>I also developed an R Shiny app (cleverly titled <a href="https://github.com/Sarah145/SarahSeq"><em>SarahSeq</em></a>) for exploring and visualing my genome. The app should work with any VCF file (not just those from people named Sarah).</p>
+<div class="chart-gallery">
+<p><a href="sarahseq1.png" class="lightbox" data-gallery="my-gallery1"><img src="sarahseq1.png" class="img-fluid" style="width:21.0%"></a> <a href="sarahseq2.png" class="lightbox" data-gallery="my-gallery1"><img src="sarahseq2.png" class="img-fluid" style="width:21.0%"></a> <a href="sarahseq3.png" class="lightbox" data-gallery="my-gallery1"><img src="sarahseq3.png" class="img-fluid" style="width:21.0%"></a> <a href="sarahseq4.png" class="lightbox" data-gallery="my-gallery1"><img src="sarahseq4.png" class="img-fluid" style="width:21.0%"></a></p>
+</div>
 
 
 
@@ -362,6 +376,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","loop":true});</script>
 
 
 

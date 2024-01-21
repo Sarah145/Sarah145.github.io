@@ -1,0 +1,25 @@
+---
+title: "Just for fun"
+filters:
+  - lightbox
+lightbox:  
+    group: my-gallery
+---
+
+As if I don't spend enough hours on these things at work, I also enjoy genomics and data visualisation in my spare time. Here's some examples of data visualisations I've created for the [#30DayChartChallenge](https://github.com/Sarah145/30DayChartChallenge) on Twitter.
+
+::: {.chart-gallery}
+![](chart_chal1.png){.lightbox group="my-gallery" width=21%} ![](chart_chal2.png){.lightbox group="my-gallery" width=21%} ![](chart_chal3.gif){.lightbox group="my-gallery"width=21%} ![](chart_chal4.png){.lightbox group="my-gallery"width=21%}
+:::
+
+I had my own genome sequenced a few years ago and enjoy making different abstract visualisations of the data. The plots below are generated using my genome sequence data.
+
+::: {.chart-gallery}
+![](mygnome2.png){.lightbox group="my-gallery2" width=21%} ![](mygnome3.png){.lightbox group="my-gallery2" width=21%} ![](mygnome4.png){.lightbox group="my-gallery2"width=21%} ![](mygnome5.png){.lightbox group="my-gallery2"width=21%}
+:::
+
+I also developed an R Shiny app (cleverly titled [*SarahSeq*](https://github.com/Sarah145/SarahSeq)) for exploring and visualing my genome. The app should work with any VCF file (not just those from people named Sarah).
+
+::: {.chart-gallery}
+![](sarahseq1.png){.lightbox group="my-gallery1" width=21%} ![](sarahseq2.png){.lightbox group="my-gallery1" width=21%} ![](sarahseq3.png){.lightbox group="my-gallery1"width=21%} ![](sarahseq4.png){.lightbox group="my-gallery1"width=21%}
+:::

@@ -18,41 +18,111 @@
     "href": "index.html#education",
     "title": "Sarah Ennis, PhD",
     "section": "Education",
-    "text": "Education\n\nPhD in Genomics Data Science | University of Galway | Galway, Ireland | Sept 2019 - Dec 2023\n\nRecently completed my PhD which focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia.\n\nMSc in Biomedical Genomics | University of Galway | Galway, Ireland | Sept 2018 - July 2019\n\nDuring my MSc I received robust training in all aspects of genomics data analysis and conducted a research project on characterising transcriptional heterogeneity between tissue-resident macrophage subsets using single-cell gene expression data.\n\nBSc in Human Health & Disease | Trinity College Dublin | Dublin, Ireland | Sept 2013 - July 2017"
+    "text": "Education\n\nPhD in Genomics Data Science | University of Galway | Galway, Ireland | Sept 2019 - Dec 2023\n\nI recently completed my PhD which focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia.\nDuring my PhD I became an expert in many commonly used packages for analysing single-cell data, including Seurat and scanpy and also tools for pipeline development and containerisation. For example, here is a Nextflow pipeline I developed for finding the optimal hyperparameters for integrating multiple single-cell datasets using scVI.\nI also gained expertise developing R shiny apps (example here) and R packages (example here).\n\nMSc in Biomedical Genomics | University of Galway | Galway, Ireland | Sept 2018 - July 2019\n\nDuring my MSc I undertook intense training in all aspects of genomics data analysis and consistently achieved high grades (1.1. overall grade).\nI was awarded a scholarship to conduct my MSc research project at the Wellcome Sanger Institute, where I gained my first introduction to single-cell RNA-seq analysis. My project here focused on characterising transcriptional heterogeneity between tissue-resident macrophage subsets.\n\nBSc in Human Health & Disease | Trinity College Dublin | Dublin, Ireland | Sept 2013 - July 2017\n\nMy undergraduate degree provided me with a strong foundation in the field of human biology. I studied the fundamentals of cell structure and function, immunology, genetics, neuroscience and anatomy and physiology. I also conducted a research project entitled “Identiﬁcation of biomarkers for the biological characterisation and diagnosis of Rett Syndrome” under the supervision of Dr Daniela Tropea."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Sarah Ennis, PhD",
     "section": "Experience",
-    "text": "Experience\n\nVisiting Researcher | Max Delbrück Centre | Berlin, Germany | Oct 2022 - Dec 2022\n\n\nVisiting Researcher | Wellcome Sanger Institute | Cambridge, UK | May 2019 - July 2019\n\n\nR&D Scientist | airmid healthgroup ltd | Dublin, Ireland | May 2016 - Sept 2018"
+    "text": "Experience\n\nVisiting Researcher | Max Delbrück Centre | Berlin, Germany | Oct 2022 - Dec 2022\n\nAs part of my PhD I completed a three month placement in the lab of Dr Simon Haas at the Berlin Institute for Medical Systems Biology.\nDuring this placement, I applied RNA velocity methods to characterise heterogeneity in the differentiation potential of hematopoietic stem cell clones.\n\nVisiting Researcher | Wellcome Sanger Institute | Cambridge, UK | May 2019 - July 2019\n\nMy MSc research project “Characterising transcriptional variation between tissue-resident macrophage subsets using single-cell RNA-Seq” was conducted at the Wellcome Sanger Institute under the supervision of Dr Daniel Gaffney, Dr Sarah Teichmann and Dr Pilib Ó Broin.\nHere, I conducted an analysis of scRNA-seq data from the Human Cell Atlas consortium to characterise tissue-speciﬁc macrophages.\n\nR&D Scientist | airmid healthgroup ltd | Dublin, Ireland | May 2016 - Sept 2018\n\nBoth during and after my undergradute degree, I worked in the R&D lab for a contract research organisation, mainly on the development of a novel ELISA assay. This job allowed me to develop my wet lab skills and taught me how to plan, conduct and evaluate molecular biology experiments.\nSome of my responsibilities here included maintaining the R&D quality control system, feeding and maintaining Cimex lectularius (bed bug) colonies and conducting a week-long ﬁeld study in the US."
   },
   {
     "objectID": "index.html#publications-and-presentations",
     "href": "index.html#publications-and-presentations",
     "title": "Sarah Ennis, PhD",
     "section": "Publications and Presentations",
-    "text": "Publications and Presentations"
+    "text": "Publications and Presentations\n\nCell-cell interactome of the hematopoietic niche and its changes in acute myeloid leukemia. S. Ennis, A. Conforte, E. O’Reilly, J. S. Takanlu, T. Cichocka, S. P. Dhami, P. Nicholson, P. Krebs, P. Ó Broin and E. Szegezdi. iScience, 2023, doi: 10.1016/j.isci.2023.106943.\nCCPlotR: An R package for the visualisation of cell-cell interactions. S. Ennis, P. Ó Broin and E. Szegezdi. Bioinformatics Advances, 2023, doi: 10.1093/bioadv/vbad130.\nEpigenomic proﬁling at genome scale: from assays and analysis to clinical insights. S. Ennis, B. Digby, and P. Ó Broin. Chapter 8 - Epigenetic Cancer Therapy (Second Edition) Translational Epigenetics., S. G. Gray, ed. (Academic Press), 2023, doi: 10.1016/B978-0-323-91367-6.00001-5.\nRecurrent transcriptomic alterations associated with drug resistance and relapse in acute myeloid leukemia. Invited oral presentation at the Young European Hematology Association meeting in Frankfurt, June 2023.\nSingle-cell analysis of the bone marrow microenvironment during AML progression. Winner of Best Talk Award at the Computational Genomics and Systems Biology symposium December, 2020."
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "Sarah Ennis, PhD",
     "section": "Skills",
-    "text": "Skills\nR R shiny Python bash cloud computing Nextflow docker"
+    "text": "Skills\nR R shiny Python bash cloud computing HPC slurm Nextflow docker Singularity single-cell RNA-seq ATAC-seq GWAS variant annotation data visualisation ggplot2 tidyverse"
   },
   {
     "objectID": "index.html#just-for-fun",
     "href": "index.html#just-for-fun",
     "title": "Sarah Ennis, PhD",
     "section": "Just for fun",
-    "text": "Just for fun"
+    "text": "Just for fun\nAs if I don’t spend enough hours on these things at work, I also enjoy genomics and data visualisation in my spare time. Here’s some examples of data visualisations I’ve created for the #30DayChartChallenge on Twitter.\n\n\n\nA Lovely Image\n\n\n\n\n\nAnother Lovely Image\n\n\n\n\n\nThe Last Lovely Image\n\n\nI had my own genome sequenced a few years ago and enjoy making different abstract visualisations of the data. The plots below are generated using my genome sequence data.\nI also developed an R Shiny app (cleverly titled SarahSeq) for exploring and visualing my genome. The app should work with any VCF file (not just those from people named Sarah)."
   },
   {
     "objectID": "downloadCV.html",
     "href": "downloadCV.html",
+    "title": "Just for fun",
+    "section": "",
+    "text": "As if I don’t spend enough hours on these things at work, I also enjoy genomics and data visualisation in my spare time. Here’s some examples of data visualisations I’ve created for the #30DayChartChallenge on Twitter.\n\n   \n\nI had my own genome sequenced a few years ago and enjoy making different abstract visualisations of the data. The plots below are generated using my genome sequence data.\n\n   \n\nI also developed an R Shiny app (cleverly titled SarahSeq) for exploring and visualing my genome. The app should work with any VCF file (not just those from people named Sarah)."
+  },
+  {
+    "objectID": "index.html#positions-of-responsibility",
+    "href": "index.html#positions-of-responsibility",
+    "title": "Sarah Ennis, PhD",
+    "section": "Positions of Responsibility",
+    "text": "Positions of Responsibility\n\nOne of two student representatives for my PhD cohort, which involved planning events and liaising with the program managers if any students had issues (2019-2023).\nI was also a student representative on the Executive Management Committee for my PhD program, which involved going to regular management meetings and contributing a student’s perspective to any decisions being made (2019-2022).\nIn May 2022 I founded a monthly Single-Cell Journal Club for single-cell researchers in Ireland.\nIn December 2020, I was a member of the organising committee for a successful student-run virtual symposium on Computational Genomics and Systems Biology.\nI designed and delivered a short online data visualisation workshop as part of a Data Science for Life Scientists course during the pandemic. You can find it here.\nI have plenty of experience teaching and have been giving tutorials and delivering workshops in genomics data science and single-cell transcriptomics to MSc and PhD students since 2019."
+  },
+  {
+    "objectID": "downloadCV.html#just-for-fun",
+    "href": "downloadCV.html#just-for-fun",
     "title": "Download my CV",
     "section": "",
-    "text": "You can download a pdf copy of my CV here"
+    "text": "As if I don’t spend enough hours on these things at work, I also enjoy genomics and data visualisation in my spare time. Here’s some examples of data visualisations I’ve created for the #30DayChartChallenge on Twitter.\n\n   \n\nI had my own genome sequenced a few years ago and enjoy making different abstract visualisations of the data. The plots below are generated using my genome sequence data.\n\n   \n\nI also developed an R Shiny app (cleverly titled SarahSeq) for exploring and visualing my genome. The app should work with any VCF file (not just those from people named Sarah)."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "PhD in Genomics Data Science | University of Galway | Galway, Ireland | Sept 2019 - Dec 2023\n\nI recently completed my PhD which focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia.\nDuring my PhD I became an expert in many commonly used packages for analysing single-cell data, including Seurat and scanpy and also tools for pipeline development and containerisation. For example, here is a Nextflow pipeline I developed for finding the optimal hyperparameters for integrating multiple single-cell datasets using scVI.\nI also gained expertise developing R shiny apps (example here) and R packages (example here).\n\nMSc in Biomedical Genomics | University of Galway | Galway, Ireland | Sept 2018 - July 2019\n\nDuring my MSc I undertook intense training in all aspects of genomics data analysis and consistently achieved high grades (1.1. overall grade).\nI was awarded a scholarship to conduct my MSc research project at the Wellcome Sanger Institute, where I gained my first introduction to single-cell RNA-seq analysis. My project here focused on characterising transcriptional heterogeneity between tissue-resident macrophage subsets.\n\nBSc in Human Health & Disease | Trinity College Dublin | Dublin, Ireland | Sept 2013 - July 2017\n\nMy undergraduate degree provided me with a strong foundation in the field of human biology. I studied the fundamentals of cell structure and function, immunology, genetics, neuroscience and anatomy and physiology. I also conducted a research project entitled “Identiﬁcation of biomarkers for the biological characterisation and diagnosis of Rett Syndrome” under the supervision of Dr Daniela Tropea."
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "PhD in Genomics Data Science | University of Galway | Galway, Ireland | Sept 2019 - Dec 2023\n\nI recently completed my PhD which focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia.\nDuring my PhD I became an expert in many commonly used packages for analysing single-cell data, including Seurat and scanpy and also tools for pipeline development and containerisation. For example, here is a Nextflow pipeline I developed for finding the optimal hyperparameters for integrating multiple single-cell datasets using scVI.\nI also gained expertise developing R shiny apps (example here) and R packages (example here).\n\nMSc in Biomedical Genomics | University of Galway | Galway, Ireland | Sept 2018 - July 2019\n\nDuring my MSc I undertook intense training in all aspects of genomics data analysis and consistently achieved high grades (1.1. overall grade).\nI was awarded a scholarship to conduct my MSc research project at the Wellcome Sanger Institute, where I gained my first introduction to single-cell RNA-seq analysis. My project here focused on characterising transcriptional heterogeneity between tissue-resident macrophage subsets.\n\nBSc in Human Health & Disease | Trinity College Dublin | Dublin, Ireland | Sept 2013 - July 2017\n\nMy undergraduate degree provided me with a strong foundation in the field of human biology. I studied the fundamentals of cell structure and function, immunology, genetics, neuroscience and anatomy and physiology. I also conducted a research project entitled “Identiﬁcation of biomarkers for the biological characterisation and diagnosis of Rett Syndrome” under the supervision of Dr Daniela Tropea."
+  },
+  {
+    "objectID": "education.html#experience",
+    "href": "education.html#experience",
+    "title": "Education & Experience",
+    "section": "Experience",
+    "text": "Experience\n\nVisiting Researcher | Max Delbrück Centre | Berlin, Germany | Oct 2022 - Dec 2022\n\nAs part of my PhD I completed a three month placement in the lab of Dr Simon Haas at the Berlin Institute for Medical Systems Biology.\nDuring this placement, I applied RNA velocity methods to characterise heterogeneity in the differentiation potential of hematopoietic stem cell clones.\n\nVisiting Researcher | Wellcome Sanger Institute | Cambridge, UK | May 2019 - July 2019\n\nMy MSc research project “Characterising transcriptional variation between tissue-resident macrophage subsets using single-cell RNA-Seq” was conducted at the Wellcome Sanger Institute under the supervision of Dr Daniel Gaffney, Dr Sarah Teichmann and Dr Pilib Ó Broin.\nHere, I conducted an analysis of scRNA-seq data from the Human Cell Atlas consortium to characterise tissue-speciﬁc macrophages.\n\nR&D Scientist | airmid healthgroup ltd | Dublin, Ireland | May 2016 - Sept 2018\n\nBoth during and after my undergradute degree, I worked in the R&D lab for a contract research organisation, mainly on the development of a novel ELISA assay. This job allowed me to develop my wet lab skills and taught me how to plan, conduct and evaluate molecular biology experiments.\nSome of my responsibilities here included maintaining the R&D quality control system, feeding and maintaining Cimex lectularius (bed bug) colonies and conducting a week-long ﬁeld study in the US."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Presentations",
+    "section": "",
+    "text": "Cell-cell interactome of the hematopoietic niche and its changes in acute myeloid leukemia. S. Ennis, A. Conforte, E. O’Reilly, J. S. Takanlu, T. Cichocka, S. P. Dhami, P. Nicholson, P. Krebs, P. Ó Broin and E. Szegezdi. iScience, 2023, doi: 10.1016/j.isci.2023.106943.\nCCPlotR: An R package for the visualisation of cell-cell interactions. S. Ennis, P. Ó Broin and E. Szegezdi. Bioinformatics Advances, 2023, doi: 10.1093/bioadv/vbad130.\nEpigenomic proﬁling at genome scale: from assays and analysis to clinical insights. S. Ennis, B. Digby, and P. Ó Broin. Chapter 8 - Epigenetic Cancer Therapy (Second Edition) Translational Epigenetics., S. G. Gray, ed. (Academic Press), 2023, doi: 10.1016/B978-0-323-91367-6.00001-5.\nRecurrent transcriptomic alterations associated with drug resistance and relapse in acute myeloid leukemia. Invited oral presentation at the Young European Hematology Association meeting in Frankfurt, June 2023.\nSingle-cell analysis of the bone marrow microenvironment during AML progression. Winner of Best Talk Award at the Computational Genomics and Systems Biology symposium December, 2020."
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Other Roles",
+    "section": "",
+    "text": "R R shiny Python bash cloud computing HPC slurm Nextflow docker Singularity single-cell RNA-seq ATAC-seq GWAS variant annotation data visualisation ggplot2 tidyverse"
+  },
+  {
+    "objectID": "skills.html#skills",
+    "href": "skills.html#skills",
+    "title": "Skills & Other Roles",
+    "section": "",
+    "text": "R R shiny Python bash cloud computing HPC slurm Nextflow docker Singularity single-cell RNA-seq ATAC-seq GWAS variant annotation data visualisation ggplot2 tidyverse"
+  },
+  {
+    "objectID": "skills.html#positions-of-responsibility",
+    "href": "skills.html#positions-of-responsibility",
+    "title": "Skills & Other Roles",
+    "section": "Positions of Responsibility",
+    "text": "Positions of Responsibility\n\nOne of two student representatives for my PhD cohort, which involved planning events and liaising with the program managers if any students had issues (2019-2023).\nI was also a student representative on the Executive Management Committee for my PhD program, which involved going to regular management meetings and contributing a student’s perspective to any decisions being made (2019-2022).\nIn May 2022 I founded a monthly Single-Cell Journal Club for single-cell researchers in Ireland.\nIn December 2020, I was a member of the organising committee for a successful student-run virtual symposium on Computational Genomics and Systems Biology.\nI designed and delivered a short online data visualisation workshop as part of a Data Science for Life Scientists course during the pandemic. You can find it here.\nI have plenty of experience teaching and have been giving tutorials and delivering workshops in genomics data science and single-cell transcriptomics to MSc and PhD students since 2019."
+  },
+  {
+    "objectID": "justforfun.html",
+    "href": "justforfun.html",
+    "title": "Just for fun",
+    "section": "",
+    "text": "As if I don’t spend enough hours on these things at work, I also enjoy genomics and data visualisation in my spare time. Here’s some examples of data visualisations I’ve created for the #30DayChartChallenge on Twitter.\n\n   \n\nI had my own genome sequenced a few years ago and enjoy making different abstract visualisations of the data. The plots below are generated using my genome sequence data.\n\n   \n\nI also developed an R Shiny app (cleverly titled SarahSeq) for exploring and visualing my genome. The app should work with any VCF file (not just those from people named Sarah)."
   }
 ]

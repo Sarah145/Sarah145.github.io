@@ -1,5 +1,0 @@
----
-title: "Download my CV"
----
-
-You can download a pdf copy of my CV [here](cv.pdf)

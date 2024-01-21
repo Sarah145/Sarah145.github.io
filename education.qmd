@@ -1,0 +1,50 @@
+---
+title: "Education & Experience"
+---
+
+## Education
+
+::: {.cvitem}
+PhD in Genomics Data Science \| University of Galway \| Galway, Ireland \| Sept 2019 - Dec 2023
+:::
+I recently completed my PhD which focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia. 
+
+During my PhD I became an expert in many commonly used packages for analysing single-cell data, including Seurat and scanpy and also tools for pipeline development and containerisation. For example, [here](https://github.com/Sarah145/bone_marrow_analysis/tree/master/scarches_nf) is a Nextflow pipeline I developed for finding the optimal hyperparameters for integrating multiple single-cell datasets using scVI. 
+
+I also gained expertise developing R shiny apps (example [here](https://szegezdilab.cloudcix.com/HSC_Interactome/)) and R packages (example [here](https://bioconductor.org/packages/release/bioc/html/CCPlotR.html)).
+
+::: {.cvitem}
+MSc in Biomedical Genomics \| University of Galway \| Galway, Ireland \| Sept 2018 - July 2019
+:::
+During my MSc I undertook intense training in all aspects of genomics data analysis and consistently achieved high grades (1.1. overall grade). 
+
+I was awarded a scholarship to conduct my MSc research project at the Wellcome Sanger Institute, where I gained my first introduction to single-cell RNA-seq analysis. My project here focused on characterising transcriptional heterogeneity between tissue-resident macrophage subsets.
+
+::: {.cvitem}
+BSc in Human Health & Disease \| Trinity College Dublin \| Dublin, Ireland \| Sept 2013 - July 2017
+:::
+
+My undergraduate degree provided me with a strong foundation in the field of human biology. I studied the fundamentals of cell structure and function, immunology, genetics, neuroscience and anatomy and physiology. I also conducted a research project entitled "*Identiﬁcation of biomarkers for the biological characterisation and diagnosis of Rett Syndrome*" under the supervision of Dr Daniela Tropea.
+
+## Experience
+
+::: {.cvitem}
+Visiting Researcher \| Max Delbrück Centre \| Berlin, Germany \| Oct 2022 - Dec 2022
+:::
+As part of my PhD I completed a three month placement in the lab of Dr Simon Haas at the Berlin Institute for Medical Systems Biology.
+
+During this placement, I applied RNA velocity methods to characterise heterogeneity in the differentiation potential of hematopoietic stem cell clones.
+
+::: {.cvitem}
+Visiting Researcher \| Wellcome Sanger Institute \| Cambridge, UK \| May 2019 - July 2019
+:::
+My MSc research project "*Characterising transcriptional variation between tissue-resident macrophage subsets using single-cell RNA-Seq*" was conducted at the Wellcome Sanger Institute under the supervision of Dr Daniel Gaffney, Dr Sarah Teichmann and Dr Pilib Ó Broin.
+
+Here, I conducted an analysis of scRNA-seq data from the Human Cell Atlas consortium to characterise tissue-speciﬁc macrophages.
+
+::: {.cvitem}
+R&D Scientist \| airmid healthgroup ltd \| Dublin, Ireland \| May 2016 - Sept 2018
+:::
+Both during and after my undergradute degree, I worked in the R&D lab for a contract research organisation, mainly on the development of a novel ELISA assay. This job allowed me to develop my wet lab skills and taught me how to plan, conduct and evaluate molecular biology experiments. 
+
+Some of my responsibilities here included maintaining the R&D quality control system, feeding and maintaining *Cimex lectularius* (bed bug) colonies and conducting a week-long ﬁeld study in the US.

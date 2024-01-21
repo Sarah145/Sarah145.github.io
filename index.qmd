@@ -1,7 +1,11 @@
 ---
 title: "Sarah Ennis, PhD"
+filters:
+  - lightbox
+lightbox:  
+    group: my-gallery
 image: headshot.jpg
-toc: true
+toc: false
 about: 
   template: trestles
   image-shape: round
@@ -16,9 +20,6 @@ about:
     - icon: envelope
       href: mailto:ennissarah94@gmail.com
 ---
-
-
-## About Me
 
 ::: {.about-me}
 Hi there! ![](gnome.png){.gnome-pic} 
@@ -35,41 +36,4 @@ I also have a keen interest in **data visualisation** and enjoy developing **R S
 I'm currently open to job opportunities that are either **hybrid** in the Toronto area or **remote**, anywhere in Canada.
 
 If you're interested in hiring me, you can find my CV [here](cv.pdf) and reach out to me via email at [ennissarah94@gmail.com](mailto:ennissarah94@gmail.com).
-
-## Education
-
-::: {.cvitem}
-PhD in Genomics Data Science \| University of Galway \| Galway, Ireland \| Sept 2019 - Dec 2023
-:::
-Recently completed my PhD which focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia.
-
-::: {.cvitem}
-MSc in Biomedical Genomics \| University of Galway \| Galway, Ireland \| Sept 2018 - July 2019
-:::
-During my MSc I received robust training in all aspects of genomics data analysis and conducted a research project on characterising transcriptional heterogeneity between tissue-resident macrophage subsets using single-cell gene expression data.
-
-::: {.cvitem}
-BSc in Human Health & Disease \| Trinity College Dublin \| Dublin, Ireland \| Sept 2013 - July 2017
-:::
-
-## Experience
-
-::: {.cvitem}
-Visiting Researcher \| Max Delbrück Centre \| Berlin, Germany \| Oct 2022 - Dec 2022
-:::
-
-::: {.cvitem}
-Visiting Researcher \| Wellcome Sanger Institute \| Cambridge, UK \| May 2019 - July 2019
-:::
-
-::: {.cvitem}
-R&D Scientist \| airmid healthgroup ltd \| Dublin, Ireland \| May 2016 - Sept 2018
-:::
-
-## Publications and Presentations
-
-## Skills
-`R` `R shiny` `Python` `bash` `cloud computing` `Nextflow` `docker`
-
-## Just for fun
 

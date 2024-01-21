@@ -16,7 +16,7 @@ I also gained expertise developing R shiny apps (example [here](https://szegezdi
 ::: {.cvitem}
 MSc in Biomedical Genomics \| University of Galway \| Galway, Ireland \| Sept 2018 - July 2019
 :::
-During my MSc I undertook intense training in all aspects of genomics data analysis and consistently achieved high grades (1.1. overall grade). 
+During my MSc I undertook robust training in all aspects of genomics data analysis and consistently achieved high grades (1.1. overall grade). 
 
 I was awarded a scholarship to conduct my MSc research project at the Wellcome Sanger Institute, where I gained my first introduction to single-cell RNA-seq analysis. My project here focused on characterising transcriptional heterogeneity between tissue-resident macrophage subsets.
 

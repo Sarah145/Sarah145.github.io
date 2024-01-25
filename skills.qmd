@@ -4,13 +4,26 @@ title: "Skills & Other Roles"
 
 ## Skills
 
-`R` `R shiny` `Python` `bash` `cloud computing` `HPC` `slurm` `Nextflow` `docker` `Singularity` `single-cell` `RNA-seq` `ATAC-seq` `GWAS` `variant annotation` `data visualisation` `ggplot2` `tidyverse`
+|  |  |
+|:---|:-------|
+|`very competent`| `R` `R shiny` `R markdown` `Python` `bash` `HPC` `slurm` `Nextflow` `docker` `Singularity` `single-cell` `RNA-seq` `ATAC-seq` `data visualization` `ggplot2` `tidyverse` |
+: {.skill1}
+
+|  |  |
+|:---|:-------|
+|`somewhat competent`| `cloud computing` `GWAS` `variant annotation` `html` `css` `quarto` |
+: {.skill2}
+
+|  |  |
+|:---|:-------|
+|`would like to improve`| `spatial transcriptomics` `machine learning` `javascript` |
+: {.skill3}
 
 ## Positions of Responsibility
 
 -   One of two student representatives for my PhD cohort, which involved planning events and liaising with the program managers if any students had issues (2019-2023).
 -   I was also a student representative on the Executive Management Committee for my PhD program, which involved going to regular management meetings and contributing a student's perspective to any decisions being made (2019-2022).
 -   In May 2022 I founded a monthly Single-Cell Journal Club for single-cell researchers in Ireland.
--   In December 2020, I was a member of the organising committee for a successful student-run virtual symposium on Computational Genomics and Systems Biology.
--   I designed and delivered a short online data visualisation workshop as part of a Data Science for Life Scientists course during the pandemic. You can find it [here](https://github.com/Genomics-CRT/Data-Science-For-Life-Science/tree/master/Introduction_to_R/part_3).
+-   In December 2020, I was a member of the organizing committee for a successful student-run virtual symposium on Computational Genomics and Systems Biology.
+-   I designed and delivered a short online data visualization workshop as part of a Data Science for Life Scientists course during the pandemic. You can find it [here](https://github.com/Genomics-CRT/Data-Science-For-Life-Science/tree/master/Introduction_to_R/part_3).
 -   I have plenty of experience teaching and have been giving tutorials and delivering workshops in genomics data science and single-cell transcriptomics to MSc and PhD students since 2019.

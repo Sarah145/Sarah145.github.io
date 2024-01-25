@@ -2,9 +2,8 @@
 title: "Publications & Presentations"
 ---
 
-- **Cell-cell interactome of the hematopoietic niche and its changes in acute myeloid leukemia**. S. Ennis, A. Conforte, E. O’Reilly, J. S. Takanlu, T. Cichocka, S. P. Dhami, P. Nicholson, P. Krebs, P. Ó Broin and E. Szegezdi. iScience, 2023, doi: [10.1016/j.isci.2023.106943](https://doi.org/10.1016/j.isci.2023.106943).
-- **CCPlotR: An R package for the visualisation of cell-cell interactions**. S. Ennis, P. Ó Broin and E. Szegezdi. Bioinformatics Advances, 2023, doi: [10.1093/bioadv/vbad130](https://10.1093/bioadv/vbad130).
-- **Epigenomic proﬁling at genome scale: from assays and analysis to clinical insights**. S. Ennis, B. Digby, and P. Ó Broin. Chapter 8 - Epigenetic Cancer Therapy (Second Edition) Translational Epigenetics., S. G. Gray, ed. (Academic Press), 2023, doi: [10.1016/B978-0-323-91367-6.00001-5](https://10.10 6/B978-0-323-91367-6.00001-5).
-- **Recurrent transcriptomic alterations associated with drug resistance and relapse in acute myeloid leukemia**.
-Invited oral presentation at the Young European Hematology Association meeting in Frankfurt, June 2023.
-- **Single-cell analysis of the bone marrow microenvironment during AML progression**. Winner of Best Talk Award at the Computational Genomics and Systems Biology symposium December, 2020.
+-   **Cell-cell interactome of the hematopoietic niche and its changes in acute myeloid leukemia**. S. Ennis, A. Conforte, E. O’Reilly, J. S. Takanlu, T. Cichocka, S. P. Dhami, P. Nicholson, P. Krebs, P. Ó Broin and E. Szegezdi. iScience, 2023, doi: [10.1016/j.isci.2023.106943](https://doi.org/10.1016/j.isci.2023.106943).
+-   **CCPlotR: An R package for the visualisation of cell-cell interactions**. S. Ennis, P. Ó Broin and E. Szegezdi. Bioinformatics Advances, 2023, doi: [10.1093/bioadv/vbad130](https://10.1093/bioadv/vbad130).
+-   **Epigenomic proﬁling at genome scale: from assays and analysis to clinical insights**. S. Ennis, B. Digby, and P. Ó Broin. Chapter 8 - Epigenetic Cancer Therapy (Second Edition) Translational Epigenetics., S. G. Gray, ed. (Academic Press), 2023, doi: [10.1016/B978-0-323-91367-6.00001-5](https://10.10%206/B978-0-323-91367-6.00001-5).
+-   **Recurrent transcriptomic alterations associated with drug resistance and relapse in acute myeloid leukemia**. Invited oral presentation at the Young European Hematology Association meeting in Frankfurt, June 2023.
+-   **Single-cell analysis of the bone marrow microenvironment during AML progression**. Winner of Best Talk Award at the Computational Genomics and Systems Biology symposium December, 2020.

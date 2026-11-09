@@ -2,8 +2,7 @@
 title: "Just for fun"
 filters:
   - lightbox
-lightbox:  
-    group: my-gallery
+lightbox: true  
 ---
 
 As if I don't spend enough hours on these things at work, I also enjoy genomics and data visualization in my spare time. Here's some examples of data visualizations I've created for the [#30DayChartChallenge](https://github.com/Sarah145/30DayChartChallenge) on Twitter.

@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Sarah Ennis"
+  favicon: gnome.png
   navbar:
     left:
       - href: index.qmd

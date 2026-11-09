@@ -2,8 +2,7 @@
 title: "Sarah Ennis, PhD"
 filters:
   - lightbox
-lightbox:  
-    group: my-gallery
+lightbox: true
 image: headshot.jpg
 toc: false
 about: 
@@ -13,8 +12,8 @@ about:
   links:
     - icon: linkedin
       href: https://www.linkedin.com/in/sarahennis-1994/
-    - icon: twitter
-      href: https://twitter.com/sarahe145
+    - icon: bluesky
+      href: https://bsky.app/profile/sarahe145.bsky.social
     - icon: github
       href: https://github.com/Sarah145
     - icon: envelope
@@ -25,14 +24,10 @@ about:
 Hi there! ![](gnome.png){.gnome-pic}
 :::
 
-I'm Sarah, a **bioinformatician and data scientist** with 5 years of experience.
+I'm Sarah, a **bioinformatician and data scientist** with 8 years of experience.
 
-I'm originally from **Dublin, Ireland** and currently based in **Kingston, Ontario**.
+I currently work as the lead bioinformatician at **Bough Biosciences**.
 
 I have expertise in conducting a wide range of bioinformatics analyses and specialize in the analysis of **single-cell** gene expression data.
 
 I also have a keen interest in **data visualization** and enjoy developing **R Shiny** apps and R packages.
-
-I'm currently open to job opportunities that are either **hybrid** in the Toronto area or **remote**, anywhere in Canada.
-
-If you're interested in hiring me, you can find my CV [here](my_cv.pdf) and reach out to me via email at [ennissarah94\@gmail.com](mailto:ennissarah94@gmail.com).

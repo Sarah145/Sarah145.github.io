@@ -2,33 +2,23 @@
 title: "Education & Experience"
 ---
 
-## Education
+::: cvitem
+Data Scientist – Single-cell Biology \| Bough Biosciences \| Ontario, Canada \| April 2024 - Present
+:::
+
+I currently work as the lead bioinformatician at an early-stage drug discovery startup developing therapeutics that target senescent cells in the brain.
+
+Here, I analyze diverse omics datasets to guide target discovery and drug development. I build the computational infrastructure behind that work, including R and Python packages, Nextflow pipelines, and interactive dashboards, and I supervise and mentor other members of the bioinformatics team.
 
 ::: cvitem
 PhD in Genomics Data Science \| University of Galway \| Galway, Ireland \| Sept 2019 - Dec 2023
 :::
 
-I recently completed my PhD which focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia.
+My PhD focused on using single-cell gene expression data to investigate novel drug targets in acute myleoid leukemia.
 
 During my PhD I became an expert in many commonly used packages for analyzing single-cell data, including Seurat and scanpy and also tools for pipeline development and containerization. For example, [here](https://github.com/Sarah145/bone_marrow_analysis/tree/master/scarches_nf) is a Nextflow pipeline I developed for finding the optimal hyperparameters for integrating multiple single-cell datasets using scVI.
 
 I also gained expertise developing R shiny apps (example [here](https://szegezdilab.cloudcix.com/HSC_Interactome/)) and R packages (example [here](https://bioconductor.org/packages/release/bioc/html/CCPlotR.html)).
-
-::: cvitem
-MSc in Biomedical Genomics \| University of Galway \| Galway, Ireland \| Sept 2018 - July 2019
-:::
-
-During my MSc I undertook robust training in all aspects of genomics data analysis and consistently achieved high grades (1.1. overall grade).
-
-I was awarded a scholarship to conduct my MSc research project at the Wellcome Sanger Institute, where I gained my first introduction to single-cell RNA-seq analysis. My project here focused on characterizing transcriptional heterogeneity between tissue-resident macrophage subsets.
-
-::: cvitem
-BSc in Human Health & Disease \| Trinity College Dublin \| Dublin, Ireland \| Sept 2013 - July 2017
-:::
-
-My undergraduate degree provided me with a strong foundation in the field of human biology. I studied the fundamentals of cell structure and function, immunology, genetics, neuroscience and anatomy and physiology. I also conducted a research project entitled "*Identiﬁcation of biomarkers for the biological characterization and diagnosis of Rett Syndrome*" under the supervision of Dr Daniela Tropea.
-
-## Experience
 
 ::: cvitem
 Visiting Researcher \| Max Delbrück Centre \| Berlin, Germany \| Oct 2022 - Dec 2022
@@ -39,12 +29,26 @@ As part of my PhD I completed a three month placement in the lab of Dr Simon Haa
 During this placement, I applied RNA velocity methods to characterize heterogeneity in the differentiation potential of hematopoietic stem cell clones.
 
 ::: cvitem
+MSc in Biomedical Genomics \| University of Galway \| Galway, Ireland \| Sept 2018 - July 2019
+:::
+
+During my MSc I undertook robust training in all aspects of genomics data analysis and consistently achieved high grades (1.1. overall grade).
+
+I was awarded a scholarship to conduct my MSc research project at the Wellcome Sanger Institute, where I gained my introduction to single-cell RNA-seq analysis. My project here focused on characterizing transcriptional heterogeneity between tissue-resident macrophages.
+
+::: cvitem
 Visiting Researcher \| Wellcome Sanger Institute \| Cambridge, UK \| May 2019 - July 2019
 :::
 
 My MSc research project "*Characterizing transcriptional variation between tissue-resident macrophage subsets using single-cell RNA-Seq*" was conducted at the Wellcome Sanger Institute under the supervision of Dr Daniel Gaffney, Dr Sarah Teichmann and Dr Pilib Ó Broin.
 
 Here, I conducted an analysis of scRNA-seq data from the Human Cell Atlas consortium to characterize tissue-speciﬁc macrophages.
+
+::: cvitem
+BSc in Human Health & Disease \| Trinity College Dublin \| Dublin, Ireland \| Sept 2013 - July 2017
+:::
+
+My undergraduate degree provided me with a strong foundation in the field of human biology. I studied the fundamentals of cell structure and function, immunology, genetics, neuroscience and anatomy and physiology. I also conducted a research project entitled "*Identiﬁcation of biomarkers for the biological characterization and diagnosis of Rett Syndrome*" under the supervision of Dr Daniela Tropea.
 
 ::: cvitem
 R&D Scientist \| airmid healthgroup ltd \| Dublin, Ireland \| May 2016 - Sept 2018
